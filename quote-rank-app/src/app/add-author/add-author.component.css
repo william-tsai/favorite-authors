@@ -1,0 +1,10 @@
+form {
+    border: 1px solid black;
+    display: inline-block;
+    width: 300px;
+    padding: 0px 0px 10px 10px;
+}
+
+#form_actions {
+    margin: 5px;
+}
